@@ -1,0 +1,7 @@
+26-11-2022	22:54:20	ebfb054a-ed9d-4990-a0f7-6db2473e815b	/new-page	GET
+26-11-2022	22:54:20	cda7c1d1-9e3a-4320-b7d7-f69b9635799c	/css/style.css	GET
+26-11-2022	22:54:20	ecc41b07-6770-4f9d-ac67-7d50b8658004	/img/img1.jpg	GET
+27-11-2022	00:33:47	b8c0e00f-dfa3-47d1-b860-715ae78135ce	/new-page	GET
+27-11-2022	00:34:03	c1a823a1-f049-4a86-a04e-0ebb664f3a13	/new-page	GET
+27-11-2022	00:34:03	fa558eee-0a88-4e2a-b500-be9550054386	/css/style.css	GET
+27-11-2022	00:34:03	7dbf671a-cc41-4cec-9584-02f2adb13f10	/img/img1.jpg	GET
